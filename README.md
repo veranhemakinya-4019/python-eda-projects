@@ -4,10 +4,16 @@
 This project performs exploratory data analysis (EDA) on a real-world dataset to identify patterns, trends, and insights that support data-driven decision-making.
 
 ## 📊 Dataset Description
-The dataset contains information on [briefly describe:
-- number of rows
-- number of columns
-- what the data represents].
+The dataset contains retail sales data from a global superstore, including
+orders, customers, products, sales, profits, discounts, and shipping details.
+
+Key columns include:
+- Order Date, Ship Date
+- Customer Segment and Region
+- Product Category and Sub-Category
+- Sales, Profit, and Discount
+- Quantity and Shipping Mode
+
 
 ## ❓ Questions Answered
 - What are the key trends in the data?
